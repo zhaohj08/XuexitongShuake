@@ -1,0 +1,28 @@
+# UTF-8
+VSVersionInfo(
+  ffi=FixedFileInfo(
+    filevers=(26, 11, 5, 1911),
+    prodvers=(26, 11, 5, 1911),
+    mask=0x3f,
+    flags=0x0,
+    OS=0x40004,
+    fileType=0x1,
+    subtype=0x0,
+    date=(0, 0)
+  ),
+  kids=[
+    StringFileInfo([
+      StringTable(
+        u'080404b0',
+        [StringStruct(u'CompanyName', u''),
+         StringStruct(u'FileDescription', u'课程学习助手'),
+         StringStruct(u'FileVersion', u'26.11.05.1911'),
+         StringStruct(u'InternalName', u'XuexitongShuake'),
+         StringStruct(u'LegalCopyright', u''),
+         StringStruct(u'OriginalFilename', u'start.exe'),
+         StringStruct(u'ProductName', u'课程学习助手'),
+         StringStruct(u'ProductVersion', u'26.11.05.1911')])
+    ]),
+    VarFileInfo([VarStruct(u'Translation', [2052, 1200])])
+  ]
+)

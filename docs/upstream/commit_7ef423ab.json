@@ -1,0 +1,101 @@
+{
+  "sha": "7ef423abda61c4bb946b977a8432a9682131e115",
+  "node_id": "C_kwDONgnDgdoAKDdlZjQyM2FiZGE2MWM0YmI5NDZiOTc3YTg0MzJhOTY4MjEzMWUxMTU",
+  "commit": {
+    "author": {
+      "name": "Mortal",
+      "email": "2022865286@qq.com",
+      "date": "2026-10-15T07:14:00Z"
+    },
+    "committer": {
+      "name": "GitHub",
+      "email": "noreply@github.com",
+      "date": "2026-10-15T07:14:00Z"
+    },
+    "message": "Update README.md",
+    "tree": {
+      "sha": "86d9edd3965ccbb41ff09bac83fba7e674961ef8",
+      "url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/git/trees/86d9edd3965ccbb41ff09bac83fba7e674961ef8"
+    },
+    "url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/git/commits/7ef423abda61c4bb946b977a8432a9682131e115",
+    "comment_count": 0,
+    "verification": {
+      "verified": true,
+      "reason": "valid",
+      "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJq0H05CRC1aQ7uu5UhlAAAk7YQAD75FpU6BrSQrNxgWWAG+hoG\ny27lw+By/2AJ/RBItY3fis0h+zvFVOYTUuZi+hUxwxTpLhR6KBr3k1dRP2yG3ggD\njkAzppcRW3z5dL9iRGDUSXXGCWWxYlVNgWCgd+MslCroX0nnGcAjJPdCuMdDaRwz\npmW4UKBpmfS1hs6aDP8nRdURnjS16YbOX/oilPQRxr0DzGjxlz7dxsHLPLd1Czq7\nXpIspS6Uj5sX5UtYWKI9DzyzZk2z8j9W1WoYyfG0CfPFusCpwom6VdXMDymvtCeO\nFWI/TC4NbybG9ouDgIYxp1qGDhwnFeO25eX2kKlCzogDIDdmBPAlen8FGP8lLvkD\n7Db8MtZd5vJQsFOAbL4/AqHJZCZJL2GLVSg1nQf6npNDRoClzqhO2ndv2pOMMLpI\nX/C9xzbOykKVVErjwGsOBWob0Xq154NyXNP/A0/5UkWcqnQTkI22/CsB7IRQl0HZ\nKQnlhSvvQ0vCGfEGRFFyJDjm/vkHZZcBnoZB5gHuW0U0A6ExkXUjvQz7rn25JnAx\ndyEDvXSNzeyu8c/y9HFNI1W8juTDUAX3KBi5MCtQ6b/zPcBEB1SpxaD86SZf9eNG\nKT8OchjUv+kXInZO/3/5Qu6GLxiAwXSM6+D4UZ/1TMl6Vfnd9obEckDfjsQUcXpo\n/uYchvnvF2aZRO4ml6/5\n=/G2O\n-----END PGP SIGNATURE-----\n",
+      "payload": "tree 86d9edd3965ccbb41ff09bac83fba7e674961ef8\nparent 6c14a8a6ddfa8c4cf92b39a8d1d9bbbbfd7c9f64\nauthor Mortal <2022865286@qq.com> 1792048440 +0800\ncommitter GitHub <noreply@github.com> 1792048440 +0800\n\nUpdate README.md",
+      "verified_at": "2026-10-15T07:14:01Z"
+    }
+  },
+  "url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/commits/7ef423abda61c4bb946b977a8432a9682131e115",
+  "html_url": "https://github.com/Mortal004/Xuexitong_shuake/commit/7ef423abda61c4bb946b977a8432a9682131e115",
+  "comments_url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/commits/7ef423abda61c4bb946b977a8432a9682131e115/comments",
+  "author": {
+    "login": "Mortal004",
+    "id": 174089117,
+    "node_id": "U_kgDOCmBjnQ",
+    "avatar_url": "https://avatars.githubusercontent.com/u/174089117?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Mortal004",
+    "html_url": "https://github.com/Mortal004",
+    "followers_url": "https://api.github.com/users/Mortal004/followers",
+    "following_url": "https://api.github.com/users/Mortal004/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Mortal004/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Mortal004/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Mortal004/subscriptions",
+    "organizations_url": "https://api.github.com/users/Mortal004/orgs",
+    "repos_url": "https://api.github.com/users/Mortal004/repos",
+    "events_url": "https://api.github.com/users/Mortal004/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Mortal004/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "committer": {
+    "login": "web-flow",
+    "id": 19864447,
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/web-flow",
+    "html_url": "https://github.com/web-flow",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "parents": [
+    {
+      "sha": "6c14a8a6ddfa8c4cf92b39a8d1d9bbbbfd7c9f64",
+      "url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/commits/6c14a8a6ddfa8c4cf92b39a8d1d9bbbbfd7c9f64",
+      "html_url": "https://github.com/Mortal004/Xuexitong_shuake/commit/6c14a8a6ddfa8c4cf92b39a8d1d9bbbbfd7c9f64"
+    }
+  ],
+  "stats": {
+    "total": 1,
+    "additions": 1,
+    "deletions": 0
+  },
+  "files": [
+    {
+      "sha": "1c999fc3b33cadaf5d7da156b29001d590c62e6d",
+      "filename": "README.md",
+      "status": "modified",
+      "additions": 1,
+      "deletions": 0,
+      "changes": 1,
+      "blob_url": "https://github.com/Mortal004/Xuexitong_shuake/blob/7ef423abda61c4bb946b977a8432a9682131e115/README.md",
+      "raw_url": "https://github.com/Mortal004/Xuexitong_shuake/raw/7ef423abda61c4bb946b977a8432a9682131e115/README.md",
+      "contents_url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/contents/README.md?ref=7ef423abda61c4bb946b977a8432a9682131e115",
+      "patch": "@@ -75,6 +75,7 @@ pip install selenium pyautogui requests colorama customtkinter openai\n 2. [ **迅雷网盘**](https://pan.xunlei.com/s/VOvtzs6dbiSGyNE41Fk5ytgVA1?pwd=tct2#) \n 3. [**夸克网盘**](https://pan.quark.cn/s/bbcc17bcce22)\n 4. [**百度网盘**](https://pan.baidu.com/s/5TvAVKIajPhOKTGd9qWDfUw)\n+5. [**使用教程**](https://mortal004.github.io/xuexitong-tutorial/)\n \n ## 注意事项\n "
+    }
+  ]
+}

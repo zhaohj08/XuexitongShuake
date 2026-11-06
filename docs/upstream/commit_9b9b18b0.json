@@ -1,0 +1,101 @@
+{
+  "sha": "9b9b18b0253dba4187f7865e8234c04eac53ab33",
+  "node_id": "C_kwDONgnDgdoAKDliOWIxOGIwMjUzZGJhNDE4N2Y3ODY1ZTgyMzRjMDRlYWM1M2FiMzM",
+  "commit": {
+    "author": {
+      "name": "Mortal",
+      "email": "2022865286@qq.com",
+      "date": "2026-11-03T13:28:33Z"
+    },
+    "committer": {
+      "name": "GitHub",
+      "email": "noreply@github.com",
+      "date": "2026-11-03T13:28:33Z"
+    },
+    "message": "Update README.md",
+    "tree": {
+      "sha": "958eca7a6a26f40ebd315549326b8adfcd47a859",
+      "url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/git/trees/958eca7a6a26f40ebd315549326b8adfcd47a859"
+    },
+    "url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/git/commits/9b9b18b0253dba4187f7865e8234c04eac53ab33",
+    "comment_count": 0,
+    "verification": {
+      "verified": true,
+      "reason": "valid",
+      "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJq6eGBCRC1aQ7uu5UhlAAAiU8QABdpNkgldyULkN8ObAljImR2\n7EEjUh9EmSJaanAbI3DUlQHQypB0nDh+DpCLXFcOyeMOueTlIPtoHrG12AcTd1l0\nXo9EwqxEjqazv/nOcRhEcJ+iAoT4jaCC3mR0g2U/GYU6TQgG+pD9k9iskD2as6Fa\n5/fGhwjDHCVQ0VhO7d2WbZRMiCv97NrK7EH6lA5a8bvvJxOdVWBgwg7rOJ1bbOIa\nySzhqVOCXWWU7SBnor/m2plU12d+sJv2ZecfVglvnSNLliCfmhPNdpKx2S+9QEyi\nhl7D3ExzNgRJQVVSg6PM6TajOy8veDvuRxcc+uZqPOqZhibRU2IbtVUTzvSjQh/8\nX5RuFHQzR0qd6scor8aK6MB9COrRJGHBSV6LoV2BwSDRGtd+p0BJ7N20G3LejJ6q\ncewoikzi2vCUyVaF/5c0HudOEIZ6VSBNSmC9IWF6meTmIv7EIpcg1wKEGZDxnyPf\nbMdEnUS0qZuvYfaEaT2GYiJrcxn0c9+kO70bfSSm6biadS1pNRqHI96tck/zXICU\nKnbWklpQZfwDcoaQbn429uw2lWHUQAPVHX7gjKOE8KZrjjYeuI4l5Guax1HddiBw\nfavhDtCXsDtEm9ms/xoXvpKfS9OgMd9oZHeZvBYmRREIc17hSxtYC9S6hFeydzCv\np+wC+Pw6DxPATDCMwO5+\n=4r3t\n-----END PGP SIGNATURE-----\n",
+      "payload": "tree 958eca7a6a26f40ebd315549326b8adfcd47a859\nparent c5446d31ef2819eaaa4b9b1eaee67b75d4b7f989\nauthor Mortal <2022865286@qq.com> 1793712513 +0800\ncommitter GitHub <noreply@github.com> 1793712513 +0800\n\nUpdate README.md",
+      "verified_at": "2026-11-03T13:28:33Z"
+    }
+  },
+  "url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/commits/9b9b18b0253dba4187f7865e8234c04eac53ab33",
+  "html_url": "https://github.com/Mortal004/Xuexitong_shuake/commit/9b9b18b0253dba4187f7865e8234c04eac53ab33",
+  "comments_url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/commits/9b9b18b0253dba4187f7865e8234c04eac53ab33/comments",
+  "author": {
+    "login": "Mortal004",
+    "id": 174089117,
+    "node_id": "U_kgDOCmBjnQ",
+    "avatar_url": "https://avatars.githubusercontent.com/u/174089117?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Mortal004",
+    "html_url": "https://github.com/Mortal004",
+    "followers_url": "https://api.github.com/users/Mortal004/followers",
+    "following_url": "https://api.github.com/users/Mortal004/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Mortal004/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Mortal004/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Mortal004/subscriptions",
+    "organizations_url": "https://api.github.com/users/Mortal004/orgs",
+    "repos_url": "https://api.github.com/users/Mortal004/repos",
+    "events_url": "https://api.github.com/users/Mortal004/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Mortal004/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "committer": {
+    "login": "web-flow",
+    "id": 19864447,
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/web-flow",
+    "html_url": "https://github.com/web-flow",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "parents": [
+    {
+      "sha": "c5446d31ef2819eaaa4b9b1eaee67b75d4b7f989",
+      "url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/commits/c5446d31ef2819eaaa4b9b1eaee67b75d4b7f989",
+      "html_url": "https://github.com/Mortal004/Xuexitong_shuake/commit/c5446d31ef2819eaaa4b9b1eaee67b75d4b7f989"
+    }
+  ],
+  "stats": {
+    "total": 8,
+    "additions": 8,
+    "deletions": 0
+  },
+  "files": [
+    {
+      "sha": "b230a4c4dca4b5331c0e1e852d171bf2fc7eede5",
+      "filename": "README.md",
+      "status": "modified",
+      "additions": 8,
+      "deletions": 0,
+      "changes": 8,
+      "blob_url": "https://github.com/Mortal004/Xuexitong_shuake/blob/9b9b18b0253dba4187f7865e8234c04eac53ab33/README.md",
+      "raw_url": "https://github.com/Mortal004/Xuexitong_shuake/raw/9b9b18b0253dba4187f7865e8234c04eac53ab33/README.md",
+      "contents_url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/contents/README.md?ref=9b9b18b0253dba4187f7865e8234c04eac53ab33",
+      "patch": "@@ -103,3 +103,11 @@ pip install selenium pyautogui requests colorama customtkinter openai\n \n \n 希望这个项目能为你的学习和研究带来帮助，祝你使用愉快！\n+\n+<a href=\"https://www.star-history.com/#Mortal004/Xuexitong_shuake&Date\">\n+  <picture>\n+    <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://api.star-history.com/svg?repos=Mortal004/Xuexitong_shuake&amp;type=Date&amp;transparent=true&amp;theme=dark\">\n+    <source media=\"(prefers-color-scheme: light)\" srcset=\"https://api.star-history.com/svg?repos=Mortal004/Xuexitong_shuake&amp;type=Date&amp;transparent=true\">\n+    <img src=\"https://api.star-history.com/svg?repos=Mortal004/Xuexitong_shuake&amp;type=Date&amp;transparent=true\" alt=\"Star History Chart\">\n+  </picture>\n+</a>"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "sha": "0ec7ae54d35db0b0a6bc1e020fb2be11b8d9cff8",
+  "node_id": "C_kwDONgnDgdoAKDBlYzdhZTU0ZDM1ZGIwYjBhNmJjMWUwMjBmYjJiZTExYjhkOWNmZjg",
+  "commit": {
+    "author": {
+      "name": "Mortal",
+      "email": "2022865286@qq.com",
+      "date": "2026-11-01T04:26:26Z"
+    },
+    "committer": {
+      "name": "GitHub",
+      "email": "noreply@github.com",
+      "date": "2026-11-01T04:26:26Z"
+    },
+    "message": "Update course_name.json",
+    "tree": {
+      "sha": "336ee23d0fccaf4dfaa9b30c9cedf280c85382c6",
+      "url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/git/trees/336ee23d0fccaf4dfaa9b30c9cedf280c85382c6"
+    },
+    "url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/git/commits/0ec7ae54d35db0b0a6bc1e020fb2be11b8d9cff8",
+    "comment_count": 0,
+    "verification": {
+      "verified": true,
+      "reason": "valid",
+      "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJq5r9yCRC1aQ7uu5UhlAAAv44QAHtnCuJ6fgjp3ePqUf0V0OtK\nCDcpcIDimmIC2GG2aV3pmewpkWTb5PKcHA129dQ8Dgi4ZUxg91He2FO92/7VeJjc\nJGG9y92wD00QJZPkbJ0Ui8RtCwDIxeoLwAkesLKsu8g2cPkdDcpxaK/xvikOMNNY\nEvAXP+XRakkHKv0vy3b0Qm9rwsZghrnidD0m4GbNJsIldM++5RUxUsVqfSvwbhlk\nlc3bF0f0ewevUS6G24fxpwsjcb4cCn373QPX2ZE2T5jc35v5nZf6aoAPphUefbUb\nVAk56EB0vie/6lGBGoTVOj4w9sHPXjcjtj7GozUd+KQeeNSgAyvBgFN1PrFBGx3+\nLnLShyeqGH0X0mmsJd/dFartiuGIBIGwaBgYnQJAV2wmydxWfURd68uh1nDS9O/s\ncWj5cGPcQ3Y5jcaJqfkWcBz/kBsNnz6T2bIpA9ljTU8wfs3GK3Us5BD+SRg9G1/C\nUZ5O/zoWzjiYMItuHoeBZLvZ8MN8eXjPV+GQiebiqeDPZpeYLTEQJmgGyoFwADX7\nt8DZjXwciSnViUjQn//H+JD37of9t3JGpBOrpWK28cRK300Arznj1zUwIAnKGoS9\n/G3V8OyCYwbgGkib2eUdqNoMnIBgufildb4dL24tGy0RrERSrvDdaxk3ux+VkykA\nihC6ZtPZGHT6Wn2mRFi8\n=A/hW\n-----END PGP SIGNATURE-----\n",
+      "payload": "tree 336ee23d0fccaf4dfaa9b30c9cedf280c85382c6\nparent 563bf27c5cb7a3eb659ed7b27b855d5e5c131c7c\nauthor Mortal <2022865286@qq.com> 1793507186 +0800\ncommitter GitHub <noreply@github.com> 1793507186 +0800\n\nUpdate course_name.json",
+      "verified_at": "2026-11-01T04:26:27Z"
+    }
+  },
+  "url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/commits/0ec7ae54d35db0b0a6bc1e020fb2be11b8d9cff8",
+  "html_url": "https://github.com/Mortal004/Xuexitong_shuake/commit/0ec7ae54d35db0b0a6bc1e020fb2be11b8d9cff8",
+  "comments_url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/commits/0ec7ae54d35db0b0a6bc1e020fb2be11b8d9cff8/comments",
+  "author": {
+    "login": "Mortal004",
+    "id": 174089117,
+    "node_id": "U_kgDOCmBjnQ",
+    "avatar_url": "https://avatars.githubusercontent.com/u/174089117?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Mortal004",
+    "html_url": "https://github.com/Mortal004",
+    "followers_url": "https://api.github.com/users/Mortal004/followers",
+    "following_url": "https://api.github.com/users/Mortal004/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Mortal004/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Mortal004/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Mortal004/subscriptions",
+    "organizations_url": "https://api.github.com/users/Mortal004/orgs",
+    "repos_url": "https://api.github.com/users/Mortal004/repos",
+    "events_url": "https://api.github.com/users/Mortal004/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Mortal004/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "committer": {
+    "login": "web-flow",
+    "id": 19864447,
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/web-flow",
+    "html_url": "https://github.com/web-flow",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "parents": [
+    {
+      "sha": "563bf27c5cb7a3eb659ed7b27b855d5e5c131c7c",
+      "url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/commits/563bf27c5cb7a3eb659ed7b27b855d5e5c131c7c",
+      "html_url": "https://github.com/Mortal004/Xuexitong_shuake/commit/563bf27c5cb7a3eb659ed7b27b855d5e5c131c7c"
+    }
+  ],
+  "stats": {
+    "total": 32,
+    "additions": 1,
+    "deletions": 31
+  },
+  "files": [
+    {
+      "sha": "0967ef424bce6791893e9a57bb952f80fd536e93",
+      "filename": "task/tool/course_name.json",
+      "status": "modified",
+      "additions": 1,
+      "deletions": 31,
+      "changes": 32,
+      "blob_url": "https://github.com/Mortal004/Xuexitong_shuake/blob/0ec7ae54d35db0b0a6bc1e020fb2be11b8d9cff8/task%2Ftool%2Fcourse_name.json",
+      "raw_url": "https://github.com/Mortal004/Xuexitong_shuake/raw/0ec7ae54d35db0b0a6bc1e020fb2be11b8d9cff8/task%2Ftool%2Fcourse_name.json",
+      "contents_url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/contents/task%2Ftool%2Fcourse_name.json?ref=0ec7ae54d35db0b0a6bc1e020fb2be11b8d9cff8",
+      "patch": "@@ -1,31 +1 @@\n-{\n-  \"*******9027\": [\n-    \"生理学11\",\n-    \"测试\",\n-    \"安全知识竞答\",\n-    \"细胞生物学及实验技术（双语）\",\n-    \"湖南农业大学2022—2023学年线上青年大学生政治理论学习\",\n-    \"植物学及实验技术\",\n-    \"（2024秋季）习近平新时代中国特色社会主义思想概论\",\n-    \"思想政治教育实践4\",\n-    \"2022年高中化学\",\n-    \"文献检索与科技论文写作\",\n-    \"生物统计学\",\n-    \"2022年秋季心理课\",\n-    \"植物生理学及实验技术（2024春）\",\n-    \"概率论与数理统计\",\n-    \"生物科学专业实习\",\n-    \"形势与政策7\",\n-    \"2023年秋季学期形策3\",\n-    \"劳模工匠精神学习课程\",\n-    \"2022年高中生物\",\n-    \"大学计算机基础2022\",\n-    \"生理学基础及实验技术（双语）\",\n-    \"人体解剖学\",\n-    \"马克思主义基本原理\",\n-    \"生物信息与科学实践能力\"\n-  ],\n-  \"*******2775\": [\n-    \"测试\"\n-  ]\n-}\n\\ No newline at end of file\n+{}"
+    }
+  ]
+}

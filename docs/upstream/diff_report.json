@@ -1,0 +1,297 @@
+{
+  "up_root": "E:\\xuexi\\005\\_upstream\\master_src\\Xuexitong_shuake-master",
+  "local_root": "E:\\xuexi\\005\\Xuexitong_shuake-master (1)\\Xuexitong_shuake-master",
+  "up_count": 72,
+  "local_count": 85,
+  "same": [
+    "LICENSE",
+    "task/__init__.py",
+    "task/finish_dicussion.py",
+    "task/img/add.png",
+    "task/img/error.png",
+    "task/img/find.png",
+    "task/img/fold.png",
+    "task/img/give_money.png",
+    "task/img/help.png",
+    "task/img/helping.png",
+    "task/img/home_dark.png",
+    "task/img/menu.png",
+    "task/img/money.jpg",
+    "task/img/money.png",
+    "task/img/money_img.png",
+    "task/img/open.png",
+    "task/img/score.png",
+    "task/img/set.png",
+    "task/img/show.png",
+    "task/img/vido.png",
+    "task/img/xuexitong1 .ico",
+    "task/play_audio.py",
+    "task/reading.py",
+    "task/tool/Match.py",
+    "task/tool/__init__.py",
+    "task/tool/chrome-extension.crx",
+    "task/tool/color.py",
+    "task/tool/face_url.json",
+    "task/tool/file.py",
+    "task/tool/font_dict.txt",
+    "task/tool/getanswer.py",
+    "task/tool/speed.crx",
+    "task/tool/zyb-227372.crx",
+    "task/watch_live.py",
+    "task/watch_ppt.py",
+    "task/xxt/activity.py",
+    "task/xxt/client.py",
+    "task/xxt/courses.py",
+    "task/xxt/crypto.py",
+    "task/xxt/geocode.py",
+    "task/xxt/login.py",
+    "task/xxt/sign.py"
+  ],
+  "diff": {
+    "core/config_manager.py": {
+      "kind": "text",
+      "up_lines": 98,
+      "local_lines": 382,
+      "similarity": 0.163,
+      "up_only_lines": 61,
+      "local_only_lines": 345
+    },
+    "gui/setting_panel.py": {
+      "kind": "text",
+      "up_lines": 551,
+      "local_lines": 676,
+      "similarity": 0.787,
+      "up_only_lines": 70,
+      "local_only_lines": 195
+    },
+    "gui/sign_window.py": {
+      "kind": "text",
+      "up_lines": 138,
+      "local_lines": 281,
+      "similarity": 0.444,
+      "up_only_lines": 45,
+      "local_only_lines": 188
+    },
+    "gui/sponsor_panel.py": {
+      "kind": "text",
+      "up_lines": 81,
+      "local_lines": 89,
+      "similarity": 0.741,
+      "up_only_lines": 18,
+      "local_only_lines": 26
+    },
+    "gui/timer_window.py": {
+      "kind": "text",
+      "up_lines": 65,
+      "local_lines": 65,
+      "similarity": 0.969,
+      "up_only_lines": 2,
+      "local_only_lines": 2
+    },
+    "gui/tooltip.py": {
+      "kind": "text",
+      "up_lines": 30,
+      "local_lines": 37,
+      "similarity": 0.716,
+      "up_only_lines": 6,
+      "local_only_lines": 13
+    },
+    "gui/update_checker.py": {
+      "kind": "text",
+      "up_lines": 248,
+      "local_lines": 269,
+      "similarity": 0.87,
+      "up_only_lines": 23,
+      "local_only_lines": 44
+    },
+    "gui/user_notice.py": {
+      "kind": "text",
+      "up_lines": 79,
+      "local_lines": 85,
+      "similarity": 0.537,
+      "up_only_lines": 35,
+      "local_only_lines": 41
+    },
+    "main.py": {
+      "kind": "text",
+      "up_lines": 681,
+      "local_lines": 1757,
+      "similarity": 0.384,
+      "up_only_lines": 214,
+      "local_only_lines": 1290
+    },
+    "requirements.txt": {
+      "kind": "text",
+      "up_lines": 11,
+      "local_lines": 16,
+      "similarity": 0.667,
+      "up_only_lines": 2,
+      "local_only_lines": 7
+    },
+    "start.py": {
+      "kind": "text",
+      "up_lines": 775,
+      "local_lines": 1094,
+      "similarity": 0.541,
+      "up_only_lines": 276,
+      "local_only_lines": 595
+    },
+    "task/do_work.py": {
+      "kind": "text",
+      "up_lines": 127,
+      "local_lines": 157,
+      "similarity": 0.754,
+      "up_only_lines": 20,
+      "local_only_lines": 50
+    },
+    "task/quiz_ai.py": {
+      "kind": "text",
+      "up_lines": 416,
+      "local_lines": 1333,
+      "similarity": 0.313,
+      "up_only_lines": 147,
+      "local_only_lines": 1064
+    },
+    "task/tool/DeepSeekAsk.py": {
+      "kind": "text",
+      "up_lines": 67,
+      "local_lines": 126,
+      "similarity": 0.674,
+      "up_only_lines": 2,
+      "local_only_lines": 61
+    },
+    "task/tool/Help.txt": {
+      "kind": "text",
+      "up_lines": 65,
+      "local_lines": 70,
+      "similarity": 0.4,
+      "up_only_lines": 38,
+      "local_only_lines": 43
+    },
+    "task/tool/ai_wen_da.py": {
+      "kind": "text",
+      "up_lines": 740,
+      "local_lines": 757,
+      "similarity": 0.978,
+      "up_only_lines": 8,
+      "local_only_lines": 25
+    },
+    "task/tool/common.py": {
+      "kind": "text",
+      "up_lines": 109,
+      "local_lines": 151,
+      "similarity": 0.685,
+      "up_only_lines": 20,
+      "local_only_lines": 62
+    },
+    "task/tool/course_name.json": {
+      "kind": "text",
+      "up_lines": 1,
+      "local_lines": 1,
+      "similarity": 1.0,
+      "up_only_lines": 0,
+      "local_only_lines": 0
+    },
+    "task/tool/course_process.json": {
+      "kind": "text",
+      "up_lines": 1,
+      "local_lines": 1,
+      "similarity": 1.0,
+      "up_only_lines": 0,
+      "local_only_lines": 0
+    },
+    "task/tool/face.py": {
+      "kind": "text",
+      "up_lines": 603,
+      "local_lines": 605,
+      "similarity": 0.982,
+      "up_only_lines": 10,
+      "local_only_lines": 12
+    },
+    "task/tool/no_secret.py": {
+      "kind": "text",
+      "up_lines": 134,
+      "local_lines": 144,
+      "similarity": 0.755,
+      "up_only_lines": 29,
+      "local_only_lines": 39
+    },
+    "task/tool/send_wx.py": {
+      "kind": "text",
+      "up_lines": 22,
+      "local_lines": 34,
+      "similarity": 0.5,
+      "up_only_lines": 8,
+      "local_only_lines": 20
+    },
+    "task/tool/version_info": {
+      "kind": "text",
+      "up_lines": 1,
+      "local_lines": 1,
+      "similarity": 0.0,
+      "up_only_lines": 1,
+      "local_only_lines": 1
+    },
+    "task/watch_vido.py": {
+      "kind": "text",
+      "up_lines": 363,
+      "local_lines": 320,
+      "similarity": 0.817,
+      "up_only_lines": 87,
+      "local_only_lines": 44
+    },
+    "task/xxt/__init__.py": {
+      "kind": "text",
+      "up_lines": 3,
+      "local_lines": 3,
+      "similarity": 0.667,
+      "up_only_lines": 1,
+      "local_only_lines": 1
+    },
+    "task/xxt/constants.py": {
+      "kind": "text",
+      "up_lines": 51,
+      "local_lines": 57,
+      "similarity": 0.87,
+      "up_only_lines": 4,
+      "local_only_lines": 10
+    },
+    "task/xxt/monitor.py": {
+      "kind": "text",
+      "up_lines": 110,
+      "local_lines": 132,
+      "similarity": 0.86,
+      "up_only_lines": 6,
+      "local_only_lines": 28
+    },
+    "task/xxt/storage.py": {
+      "kind": "text",
+      "up_lines": 176,
+      "local_lines": 182,
+      "similarity": 0.966,
+      "up_only_lines": 3,
+      "local_only_lines": 9
+    }
+  },
+  "only_up": [
+    "README.md",
+    "task/tool/disable_monitor.py"
+  ],
+  "only_local": [
+    "AGENT_HANDOVER.md",
+    "AGENT_ONBOARDING_PROMPT.md",
+    "core/applog.py",
+    "core/browser.py",
+    "core/driver.py",
+    "core/log_export.py",
+    "core/paths.py",
+    "core/runner.py",
+    "gui/log_export_dialog.py",
+    "gui/theme.py",
+    "start.spec",
+    "start_version.txt",
+    "task/tool/page_compat.py",
+    "task/tool/quota.py",
+    "更新日志.md"
+  ]
+}

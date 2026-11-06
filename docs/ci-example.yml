@@ -1,0 +1,30 @@
+# 示例 CI 配置。启用方法：把本文件放回 .github/workflows/ci.yml，
+# 并确保 gh token 具备 workflow scope：gh auth refresh -h github.com -s workflow
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  sanity:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Compile check
+        run: python -m compileall -q core gui task main.py start.py
+
+      # 纯桩套件：不联网、不开浏览器；CI 无 GUI 会话时跳过窗口相关套件
+      - name: Stub test suites
+        env:
+          XXT_SKIP_GUI_TESTS: '1'
+          PYTHONIOENCODING: utf-8
+        run: python tests/run_stub_tests.py

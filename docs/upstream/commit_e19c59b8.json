@@ -1,0 +1,101 @@
+{
+  "sha": "e19c59b84dfe37f94cb95d9c98c7b73f572dd9bb",
+  "node_id": "C_kwDONgnDgdoAKGUxOWM1OWI4NGRmZTM3Zjk0Y2I5NWQ5Yzk4YzdiNzNmNTcyZGQ5YmI",
+  "commit": {
+    "author": {
+      "name": "Mortal",
+      "email": "2022865286@qq.com",
+      "date": "2026-06-25T12:59:25Z"
+    },
+    "committer": {
+      "name": "GitHub",
+      "email": "noreply@github.com",
+      "date": "2026-06-25T12:59:25Z"
+    },
+    "message": "修复登陆问题",
+    "tree": {
+      "sha": "9b5956616a69b7338f44a5a922420ff5b7afd30c",
+      "url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/git/trees/9b5956616a69b7338f44a5a922420ff5b7afd30c"
+    },
+    "url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/git/commits/e19c59b84dfe37f94cb95d9c98c7b73f572dd9bb",
+    "comment_count": 0,
+    "verification": {
+      "verified": true,
+      "reason": "valid",
+      "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqPSYtCRC1aQ7uu5UhlAAABI8QAEMyDjVkWpMJ6FPjGbRP/OcG\nGfyq0O0fcURJU/3Eo7B99U/y7F5Z5OQTmTnCGPiZqNiRU76dBILFRv1NLpxZBtlq\nWXi4/nBS1WAKWL//66TWfumGzvabM3ApF4pwmBkYOYSy9V/VMfhAN67qa1ji/ro9\nj4ZVA5tXzY/TNu6pKSswhaJT1/GyDmB23JmNEj/FUi7X9SkaLYPNet2EnKUceEKQ\nfg6PORcfZyTrZkxg8pKDz5Brz/Sqn6/ead7x17hzHeCBHDo3iq6E2NsDsAERJQX1\nuZ5gpLPUxKItkfn6b6Gwv6ESDZSq4Vpk3ezHxeWXfqJF449yyF8LO+0MfGDGOJ9E\nA9rnKH9pvg1Q/AKYAhK/X6O6hxajoLaROh+J9/4DbMexSmMYYKB7HvNReb1PLnhr\njuNn9xtbOsHEvi3nis3/S5byGVjZGDc7S72maDSAAaitA5pDrzLOlmTj0et86yXs\nPLjbUtAi8uS4c6ZPJ8Z4MoO2IIVF7lrnhfwcTeSUEiK3KNOUyqywKoO+lG/gMEV+\nMphMaCT2QVvJT7vGeludytgn7rIWGz3gB1IpT+wSdwKEutVTfD0S77/gqS6gZf50\n4o0UNE/u16mpUFGXxO+8fGk6J7BPfhoSZfcvDlBQefL0HTvUuOHa6q8g1fZzTlwx\nh/5fa8hWJC7M4iuQjSm8\n=4hM+\n-----END PGP SIGNATURE-----\n",
+      "payload": "tree 9b5956616a69b7338f44a5a922420ff5b7afd30c\nparent c43e3a9539530a18aef7095d55cc09e031ba528f\nauthor Mortal <2022865286@qq.com> 1782392365 +0800\ncommitter GitHub <noreply@github.com> 1782392365 +0800\n\n修复登陆问题",
+      "verified_at": "2026-06-25T12:59:26Z"
+    }
+  },
+  "url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/commits/e19c59b84dfe37f94cb95d9c98c7b73f572dd9bb",
+  "html_url": "https://github.com/Mortal004/Xuexitong_shuake/commit/e19c59b84dfe37f94cb95d9c98c7b73f572dd9bb",
+  "comments_url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/commits/e19c59b84dfe37f94cb95d9c98c7b73f572dd9bb/comments",
+  "author": {
+    "login": "Mortal004",
+    "id": 174089117,
+    "node_id": "U_kgDOCmBjnQ",
+    "avatar_url": "https://avatars.githubusercontent.com/u/174089117?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Mortal004",
+    "html_url": "https://github.com/Mortal004",
+    "followers_url": "https://api.github.com/users/Mortal004/followers",
+    "following_url": "https://api.github.com/users/Mortal004/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Mortal004/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Mortal004/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Mortal004/subscriptions",
+    "organizations_url": "https://api.github.com/users/Mortal004/orgs",
+    "repos_url": "https://api.github.com/users/Mortal004/repos",
+    "events_url": "https://api.github.com/users/Mortal004/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Mortal004/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "committer": {
+    "login": "web-flow",
+    "id": 19864447,
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/web-flow",
+    "html_url": "https://github.com/web-flow",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "parents": [
+    {
+      "sha": "c43e3a9539530a18aef7095d55cc09e031ba528f",
+      "url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/commits/c43e3a9539530a18aef7095d55cc09e031ba528f",
+      "html_url": "https://github.com/Mortal004/Xuexitong_shuake/commit/c43e3a9539530a18aef7095d55cc09e031ba528f"
+    }
+  ],
+  "stats": {
+    "total": 20,
+    "additions": 4,
+    "deletions": 16
+  },
+  "files": [
+    {
+      "sha": "8b3628da7cf9ed47bc50111d2771134d5fd3e6e9",
+      "filename": "main.py",
+      "status": "modified",
+      "additions": 4,
+      "deletions": 16,
+      "changes": 20,
+      "blob_url": "https://github.com/Mortal004/Xuexitong_shuake/blob/e19c59b84dfe37f94cb95d9c98c7b73f572dd9bb/main.py",
+      "raw_url": "https://github.com/Mortal004/Xuexitong_shuake/raw/e19c59b84dfe37f94cb95d9c98c7b73f572dd9bb/main.py",
+      "contents_url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/contents/main.py?ref=e19c59b84dfe37f94cb95d9c98c7b73f572dd9bb",
+      "patch": "@@ -46,26 +46,14 @@ def login_study(driver,phone_number,password):\n     # 打开网页\r\n     driver.get(\"https://i.chaoxing.com/\")\r\n     turn_page(driver,'用户登录')\r\n-    # 尝试 cookie.pkl 自动登录（宿主 profile 或手动导入均可）\r\n-    if auto_login_with_cookies(driver):\r\n-        if get_cookie(driver):\r\n-            print(color.green('Cookie 登录成功'), flush=True)\r\n-        return\r\n-    # 已登录状态（页面无登录框）\r\n-    try:\r\n-        driver.find_element(By.ID, 'phone')\r\n-    except:\r\n-        print(color.green('检测到已登录状态，跳过登录步骤'), flush=True)\r\n-        if get_cookie(driver):\r\n-            print(color.green('登录成功'), flush=True)\r\n-        return\r\n-    # 输账密登录\r\n     print(color.green('正在登录中...'), flush=True)\r\n+    # 自动登录\r\n     element = driver.find_element(By.ID, 'phone')\r\n     time.sleep(1)\r\n     element1 = driver.find_element(By.ID, 'pwd')\r\n-    element.send_keys(phone_number)\r\n-    element1.send_keys(password)\r\n+    element.send_keys(phone_number)  # 替换成你的手机号码\r\n+    element1.send_keys(password)  # 替换成你的密码\r\n+    # 点击登录\r\n     login_button = driver.find_element(By.ID, 'loginBtn')\r\n     try:\r\n         login_button.click()\r"
+    }
+  ]
+}

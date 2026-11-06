@@ -1,0 +1,101 @@
+{
+  "sha": "6c14a8a6ddfa8c4cf92b39a8d1d9bbbbfd7c9f64",
+  "node_id": "C_kwDONgnDgdoAKDZjMTRhOGE2ZGRmYThjNGNmOTJiMzlhOGQxZDliYmJiZmQ3YzlmNjQ",
+  "commit": {
+    "author": {
+      "name": "Mortal",
+      "email": "2022865286@qq.com",
+      "date": "2026-10-14T10:50:19Z"
+    },
+    "committer": {
+      "name": "GitHub",
+      "email": "noreply@github.com",
+      "date": "2026-10-14T10:50:19Z"
+    },
+    "message": "Update README.md",
+    "tree": {
+      "sha": "551aaefb7fe7f8898a9904dca7386b1fdf93223f",
+      "url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/git/trees/551aaefb7fe7f8898a9904dca7386b1fdf93223f"
+    },
+    "url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/git/commits/6c14a8a6ddfa8c4cf92b39a8d1d9bbbbfd7c9f64",
+    "comment_count": 0,
+    "verification": {
+      "verified": true,
+      "reason": "valid",
+      "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqz15rCRC1aQ7uu5UhlAAAzBcQABKJdctRO/1km8TAfDMDu9n4\n+ZJYsDROd7/ZM5VWG+TOeJzeNC0/EruUgh5wZlMXvBh8CYXLUQXY8iUzkAp786Y/\nESc+6va5rRtZxevf/zTGvN1WHdGf1xF7+HcUsfp14RbwxNhrYqZmjaql0UYnTs2y\nCOJsNKG0wRxTw37iifU5AYrxCPIg0dZLwEuG0EJNsRa2R0c0YnhTCfO4QG/YSJ15\noz4fsMo92u0c8H4eXXdcVQwxGaKRb2ZdFrviwaECPLMfu3tsVeV6VlAPSb67/807\nQrUr1CkkEb/xua5Dy0/aBR8kPUwaIG8Opa9T6Vk7maAezU0pEyim478CMNUc2lpn\nmQwe1iaveqrRTGsn/Ct06eDgV++GkXLRUMESF25bVPSUE9/CzbyN8U+5nGAT/Zyh\nXR7mMM0AU8vw2FS4/i0bAD2rZ2BhR+M/OsIFJqOaAV2dlqJG1W5pVfnMOf1cJEkD\nrFsly5XDIe7Z8R1h4RaPc7PuSZor5aKuPLuoQ29b6p7GABfAUXV+u1UQSWNdpQ1r\n9NVR+gQkenGCyjxrjrOQT0LELU11tOQ7WmSTwrAH7FI4W4PVi9iyR5p/Z5T3bheL\ndQsZPvvNFhfoq+TYm02br9j9TOE05uHNked4UV3ljjscTEwQ9PNxg0rX+Zyv2fff\nsCLnFWHCjp+wOJqH6KTg\n=wbd8\n-----END PGP SIGNATURE-----\n",
+      "payload": "tree 551aaefb7fe7f8898a9904dca7386b1fdf93223f\nparent 2bc01a3969cf3fc7e254643e7f9796200647b88e\nauthor Mortal <2022865286@qq.com> 1791975019 +0800\ncommitter GitHub <noreply@github.com> 1791975019 +0800\n\nUpdate README.md",
+      "verified_at": "2026-10-14T10:50:20Z"
+    }
+  },
+  "url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/commits/6c14a8a6ddfa8c4cf92b39a8d1d9bbbbfd7c9f64",
+  "html_url": "https://github.com/Mortal004/Xuexitong_shuake/commit/6c14a8a6ddfa8c4cf92b39a8d1d9bbbbfd7c9f64",
+  "comments_url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/commits/6c14a8a6ddfa8c4cf92b39a8d1d9bbbbfd7c9f64/comments",
+  "author": {
+    "login": "Mortal004",
+    "id": 174089117,
+    "node_id": "U_kgDOCmBjnQ",
+    "avatar_url": "https://avatars.githubusercontent.com/u/174089117?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Mortal004",
+    "html_url": "https://github.com/Mortal004",
+    "followers_url": "https://api.github.com/users/Mortal004/followers",
+    "following_url": "https://api.github.com/users/Mortal004/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Mortal004/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Mortal004/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Mortal004/subscriptions",
+    "organizations_url": "https://api.github.com/users/Mortal004/orgs",
+    "repos_url": "https://api.github.com/users/Mortal004/repos",
+    "events_url": "https://api.github.com/users/Mortal004/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Mortal004/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "committer": {
+    "login": "web-flow",
+    "id": 19864447,
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/web-flow",
+    "html_url": "https://github.com/web-flow",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "parents": [
+    {
+      "sha": "2bc01a3969cf3fc7e254643e7f9796200647b88e",
+      "url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/commits/2bc01a3969cf3fc7e254643e7f9796200647b88e",
+      "html_url": "https://github.com/Mortal004/Xuexitong_shuake/commit/2bc01a3969cf3fc7e254643e7f9796200647b88e"
+    }
+  ],
+  "stats": {
+    "total": 8,
+    "additions": 5,
+    "deletions": 3
+  },
+  "files": [
+    {
+      "sha": "b5b4a3eace87ce7c4a68278e6d6b0665f03fa55f",
+      "filename": "README.md",
+      "status": "modified",
+      "additions": 5,
+      "deletions": 3,
+      "changes": 8,
+      "blob_url": "https://github.com/Mortal004/Xuexitong_shuake/blob/6c14a8a6ddfa8c4cf92b39a8d1d9bbbbfd7c9f64/README.md",
+      "raw_url": "https://github.com/Mortal004/Xuexitong_shuake/raw/6c14a8a6ddfa8c4cf92b39a8d1d9bbbbfd7c9f64/README.md",
+      "contents_url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/contents/README.md?ref=6c14a8a6ddfa8c4cf92b39a8d1d9bbbbfd7c9f64",
+      "patch": "@@ -2,7 +2,7 @@\n \n ## 前言\n \n-注：代码部分暂时未更新，可能存在些许Bug,但[**Github/release**](https://github.com/Mortal004/Xuexitong_shuake/releases)中的是最新版本,可以正常使用（编辑于2026年9月18日）\n+注：代码部分现已同步更新，[**Github/release**](https://github.com/Mortal004/Xuexitong_shuake/releases)中的是也是最新版本,都可以可以正常使用（编辑于2026年10月14日）\n \n 希望各位大学生在使用此脚本时，能合理安排学习与刷课的时间，切勿过度依赖，真正掌握知识才是最重要的。\n \n@@ -13,10 +13,12 @@\n 本项目旨在通过模拟用户观看视频的行为，自动在学习通上完成刷课任务。主要功能包括：\n - **定时自动刷课**：使用 Selenium 库实现网页自动化操作，模拟真实用户观看视频行为，并支持调节视频播放倍速，最高可至 16 倍速，并且可以自主设定开始与结束刷课的时间\n - **连续刷多门课程**：支持最多连续刷3门课程，一门课程刷完后不再需要手动切换下一科，全程自动操作。\n+- **同时刷多门课程**：支持最多同时刷一个账号下的3门课程，只需在设置中打开多端学习，但除非是特别紧急，一般不建议开启。\n - **刷题功能**：现在已经可以支持使用deepseek进行搜题，并且加入了一些免费题库，会优先在免费题库中检索答案，然后再用deepseek AI回答。\n-- **自动跳过人脸认证**：只需要第一次刷脸成功后，后续的刷课操作都可以自动跳过人脸认证，无需手动操作。\n+- **自动跳过人脸认证**：所有的人脸认证都可以自动跳过，无需手动操作。\n - **自动做作业**：现在也可以自动做作业了，只需要在设置中配置好deepseek API的密钥，就可以自动做作业了。\n-- **自动刷直播、自动播放音频、自动回复讨论、自动播放ppt**：这些都已实现，除了直播外，其他功能都可以正常工作。\n+- **自动刷直播、自动播放音频、自动回复讨论、自动播放ppt**：全都支持自动化操作。\n+- **课程进度可实时查看**：在主页点击刷课记录即可查看课程学习进度，后续会开发邮箱报送进度功能。\n - **可视化控制**：借助 customtkinter 库搭建可视化窗口，用于控制程序运行和显示输出信息。\n - **辅助操作**：利用 pyautogui 库实现对鼠标和键盘的自动操作。\n - **更新检测**：通过 requests 库检测项目更新。"
+    }
+  ]
+}

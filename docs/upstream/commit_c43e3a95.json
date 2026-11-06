@@ -1,0 +1,118 @@
+{
+  "sha": "c43e3a9539530a18aef7095d55cc09e031ba528f",
+  "node_id": "C_kwDONgnDgdoAKGM0M2UzYTk1Mzk1MzBhMThhZWY3MDk1ZDU1Y2MwOWUwMzFiYTUyOGY",
+  "commit": {
+    "author": {
+      "name": "Mortal",
+      "email": "2022865286@qq.com",
+      "date": "2026-06-25T12:46:24Z"
+    },
+    "committer": {
+      "name": "GitHub",
+      "email": "noreply@github.com",
+      "date": "2026-06-25T12:46:24Z"
+    },
+    "message": "Merge pull request #10 from tzz1021/master\n\nfix：一键式启动（降低风控版）+补全requirement",
+    "tree": {
+      "sha": "a0fcdd645f78f0f0e4f4ab5cf2a43de3a344474e",
+      "url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/git/trees/a0fcdd645f78f0f0e4f4ab5cf2a43de3a344474e"
+    },
+    "url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/git/commits/c43e3a9539530a18aef7095d55cc09e031ba528f",
+    "comment_count": 0,
+    "verification": {
+      "verified": true,
+      "reason": "valid",
+      "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqPSMgCRC1aQ7uu5UhlAAAtioQAHvida3R58RaF1mhiEYzZfqY\n/kQepYasTdICPWFk6nxj8eP4sYPdiiaUBFcolOXhS9S/L1dYwuvTGoZ8VFKIcMTp\nXiPSQgfPiy0lwBR99iFHq3SyktrC2USk4JqFisZDZEOlnfA1IJUGTdiepF64dpsi\nXHlTodVetPsTrnQyIB/5t3WZ0404qyHGZvJPMMlvB1JhiRTRqjd48vwsExubild9\nXuc8Y/qS2uAw6KqR7yOyRG93c70ydgZzQQR/kH33jNLkai8imdJFATjCvkoAbpRn\nWvbdb2hzauhgEK8fHMva5hmaAH9ecHCuTCae713wojXa1ml6eXXxGxiHwtpa7m4y\nKtxRjQHp7JHoaVVLrVuvdohYb4LNIDze6UaA5/huyH6w7nQW/G4svfXJzOpRNLUV\nZBtRyUw9Kl5/2DQ8GqtKA5ypWN68CXmoX3nIF6+PL5qIfpUwJUAxrK3+OzJFg/sA\nGnN5+ZeeTFqNyY1x24PwdJkmwZqQEYqTZtVnYo+5lJojPAzWdbWJhW6qHDr7jxTC\nu9s+1VLdc+YO8WyhHITSeH54fIeX3/z4ED01kxSUdZpGeioNTVDtQVI4JREL42pv\ngJ4I0kRqbNnm6R870WPzBPrsPZSKar11cmdsYnE4S92ta4UFwSNi98dNp9ZbQw6k\noCSIXRCm3jkcc1yDBuOA\n=UJhb\n-----END PGP SIGNATURE-----\n",
+      "payload": "tree a0fcdd645f78f0f0e4f4ab5cf2a43de3a344474e\nparent 2ff9e63bca7bbc077f46aeb38ffaa6f72e3de68d\nparent a241584c9c700b6fa038bd4b33dca29d584497db\nauthor Mortal <2022865286@qq.com> 1782391584 +0800\ncommitter GitHub <noreply@github.com> 1782391584 +0800\n\nMerge pull request #10 from tzz1021/master\n\nfix：一键式启动（降低风控版）+补全requirement",
+      "verified_at": "2026-06-25T12:46:24Z"
+    }
+  },
+  "url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/commits/c43e3a9539530a18aef7095d55cc09e031ba528f",
+  "html_url": "https://github.com/Mortal004/Xuexitong_shuake/commit/c43e3a9539530a18aef7095d55cc09e031ba528f",
+  "comments_url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/commits/c43e3a9539530a18aef7095d55cc09e031ba528f/comments",
+  "author": {
+    "login": "Mortal004",
+    "id": 174089117,
+    "node_id": "U_kgDOCmBjnQ",
+    "avatar_url": "https://avatars.githubusercontent.com/u/174089117?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Mortal004",
+    "html_url": "https://github.com/Mortal004",
+    "followers_url": "https://api.github.com/users/Mortal004/followers",
+    "following_url": "https://api.github.com/users/Mortal004/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Mortal004/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Mortal004/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Mortal004/subscriptions",
+    "organizations_url": "https://api.github.com/users/Mortal004/orgs",
+    "repos_url": "https://api.github.com/users/Mortal004/repos",
+    "events_url": "https://api.github.com/users/Mortal004/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Mortal004/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "committer": {
+    "login": "web-flow",
+    "id": 19864447,
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/web-flow",
+    "html_url": "https://github.com/web-flow",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "parents": [
+    {
+      "sha": "2ff9e63bca7bbc077f46aeb38ffaa6f72e3de68d",
+      "url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/commits/2ff9e63bca7bbc077f46aeb38ffaa6f72e3de68d",
+      "html_url": "https://github.com/Mortal004/Xuexitong_shuake/commit/2ff9e63bca7bbc077f46aeb38ffaa6f72e3de68d"
+    },
+    {
+      "sha": "a241584c9c700b6fa038bd4b33dca29d584497db",
+      "url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/commits/a241584c9c700b6fa038bd4b33dca29d584497db",
+      "html_url": "https://github.com/Mortal004/Xuexitong_shuake/commit/a241584c9c700b6fa038bd4b33dca29d584497db"
+    }
+  ],
+  "stats": {
+    "total": 33,
+    "additions": 28,
+    "deletions": 5
+  },
+  "files": [
+    {
+      "sha": "7468c610905a799c6aa1818884f17f8b07364644",
+      "filename": "main.py",
+      "status": "modified",
+      "additions": 17,
+      "deletions": 5,
+      "changes": 22,
+      "blob_url": "https://github.com/Mortal004/Xuexitong_shuake/blob/c43e3a9539530a18aef7095d55cc09e031ba528f/main.py",
+      "raw_url": "https://github.com/Mortal004/Xuexitong_shuake/raw/c43e3a9539530a18aef7095d55cc09e031ba528f/main.py",
+      "contents_url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/contents/main.py?ref=c43e3a9539530a18aef7095d55cc09e031ba528f",
+      "patch": "@@ -44,16 +44,28 @@ def login_study(driver,phone_number,password):\n     无。\r\n     \"\"\"\r\n     # 打开网页\r\n-    driver.get(\"https:i.chaoxing.com/\")\r\n+    driver.get(\"https://i.chaoxing.com/\")\r\n     turn_page(driver,'用户登录')\r\n+    # 尝试 cookie.pkl 自动登录（宿主 profile 或手动导入均可）\r\n+    if auto_login_with_cookies(driver):\r\n+        if get_cookie(driver):\r\n+            print(color.green('Cookie 登录成功'), flush=True)\r\n+        return\r\n+    # 已登录状态（页面无登录框）\r\n+    try:\r\n+        driver.find_element(By.ID, 'phone')\r\n+    except:\r\n+        print(color.green('检测到已登录状态，跳过登录步骤'), flush=True)\r\n+        if get_cookie(driver):\r\n+            print(color.green('登录成功'), flush=True)\r\n+        return\r\n+    # 输账密登录\r\n     print(color.green('正在登录中...'), flush=True)\r\n-    # 自动登录\r\n     element = driver.find_element(By.ID, 'phone')\r\n     time.sleep(1)\r\n     element1 = driver.find_element(By.ID, 'pwd')\r\n-    element.send_keys(phone_number)  # 替换成你的手机号码\r\n-    element1.send_keys(password)  # 替换成你的密码\r\n-    # 点击登录\r\n+    element.send_keys(phone_number)\r\n+    element1.send_keys(password)\r\n     login_button = driver.find_element(By.ID, 'loginBtn')\r\n     try:\r\n         login_button.click()\r"
+    },
+    {
+      "sha": "97344774a7c6ba77688cbe80ef17f95a3b5bb956",
+      "filename": "requirements.txt",
+      "status": "added",
+      "additions": 11,
+      "deletions": 0,
+      "changes": 11,
+      "blob_url": "https://github.com/Mortal004/Xuexitong_shuake/blob/c43e3a9539530a18aef7095d55cc09e031ba528f/requirements.txt",
+      "raw_url": "https://github.com/Mortal004/Xuexitong_shuake/raw/c43e3a9539530a18aef7095d55cc09e031ba528f/requirements.txt",
+      "contents_url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/contents/requirements.txt?ref=c43e3a9539530a18aef7095d55cc09e031ba528f",
+      "patch": "@@ -0,0 +1,11 @@\n+# Xuexitong_shuake_mod1 依赖\n+# 安装: pip install -r requirements.txt\n+\n+customtkinter>=5.2.0\n+selenium>=4.15.0\n+PyAutoGUI>=0.9.53\n+requests>=2.28.0\n+Pillow>=9.0.0\n+colorama>=0.4.6\n+fonttools>=4.0.0\n+openai>=1.0.0"
+    }
+  ]
+}

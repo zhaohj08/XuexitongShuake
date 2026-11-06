@@ -1,0 +1,41 @@
+{
+  "version": 2,
+  "global": {
+    "API": "",
+    "font_type": "Helvetica",
+    "user_notice": "True",
+    "timer_active": 0,
+    "timer_end": "03:00:00",
+    "file_name": "",
+    "timer_start": "04:00:00",
+    "browser": "不指定浏览器",
+    "driver_path": "",
+    "font_size": "13",
+    "current_account": "acc_bc2665c0",
+    "max_concurrency": 2
+  },
+  "accounts": [
+    {
+      "alias": "账号1",
+      "enabled": 1,
+      "phone_number": "",
+      "password": "",
+      "cour": [
+        ""
+      ],
+      "choice": "",
+      "after_finish_question": "",
+      "video_title_choice": "",
+      "discussion_choice": "",
+      "homework": "",
+      "task_type": "",
+      "speed": "",
+      "pass_face": 0,
+      "pass_vido": 0,
+      "lock_screen": 0,
+      "multi_device": 0,
+      "radio_var": 1,
+      "id": "acc_bc2665c0"
+    }
+  ]
+}

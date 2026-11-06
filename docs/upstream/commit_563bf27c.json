@@ -1,0 +1,101 @@
+{
+  "sha": "563bf27c5cb7a3eb659ed7b27b855d5e5c131c7c",
+  "node_id": "C_kwDONgnDgdoAKDU2M2JmMjdjNWNiN2EzZWI2NTllZDdiMjdiODU1ZDVlNWMxMzFjN2M",
+  "commit": {
+    "author": {
+      "name": "Mortal",
+      "email": "2022865286@qq.com",
+      "date": "2026-10-15T09:34:34Z"
+    },
+    "committer": {
+      "name": "GitHub",
+      "email": "noreply@github.com",
+      "date": "2026-10-15T09:34:34Z"
+    },
+    "message": "Update README.md",
+    "tree": {
+      "sha": "c46a50afe4c90d961f27b30f4d9f8e6313cfa4fd",
+      "url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/git/trees/c46a50afe4c90d961f27b30f4d9f8e6313cfa4fd"
+    },
+    "url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/git/commits/563bf27c5cb7a3eb659ed7b27b855d5e5c131c7c",
+    "comment_count": 0,
+    "verification": {
+      "verified": true,
+      "reason": "valid",
+      "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJq0J4rCRC1aQ7uu5UhlAAAP0sQAHxiDK5g/KFFx+sVqKk4J9IX\nyaKn3FXfpyUdQBgNrwDSDu9YJQYsHq/05inG2Hxt/cZZbK3SBOwuHv8gW4nkueKi\n2Jkdle19IzWhd1GExFLPfM8DEGN9hQePNlqoFm8ANtGUKT9/ysmq7Ve4mhibIML3\nX+fGrMF5ROqkPw3HKFVP3KvW5Bpt7/6503VROswUY+6hO0zipHaLAKTGFByj67DE\nkiyHELqd31UNHQ2kedoEAZdccpWQRsP3ozjQom8fKdR7JyqMC5naWFFh+MX8RYN1\n2DW9P1pTk2NVnrV4IWzbKmoPxpGcVq5seIdUJQhkdzBA2ad6aMZrQ9/M00y2tdzy\naXwJhFXXcvDW2bChnEJ9Rawn9qigVE/xvNiKSgaJ4AM73SwWComym7z/eJYufPLh\nXescoMwvQFkxF4ZZrtk3TiRQYxOcEy4Imc0VIhr+hUxAMkDrarHvxvGrHnydksfn\n3GNULEIwMVLi5HoFYxCgRotlUUVRSai90D7rTF1F9wUkW/yHqjGZQmvO3uECwnmu\nrcHBDCoiwkcseDN0nI5SBBfalmrzpcQr+HpxgyAyTXIRenhHZWhaRvV4qDbEt+pi\nS/CyJHK6tq3RDudcu2FSm3/at9BzR/O6m0UCHQpOTTPXXLne0uIxsHGro/Knzfk1\nGaD5Y4ewyLHhfaUd7sJ4\n=lKX0\n-----END PGP SIGNATURE-----\n",
+      "payload": "tree c46a50afe4c90d961f27b30f4d9f8e6313cfa4fd\nparent 7ef423abda61c4bb946b977a8432a9682131e115\nauthor Mortal <2022865286@qq.com> 1792056874 +0800\ncommitter GitHub <noreply@github.com> 1792056874 +0800\n\nUpdate README.md",
+      "verified_at": "2026-10-15T09:34:35Z"
+    }
+  },
+  "url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/commits/563bf27c5cb7a3eb659ed7b27b855d5e5c131c7c",
+  "html_url": "https://github.com/Mortal004/Xuexitong_shuake/commit/563bf27c5cb7a3eb659ed7b27b855d5e5c131c7c",
+  "comments_url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/commits/563bf27c5cb7a3eb659ed7b27b855d5e5c131c7c/comments",
+  "author": {
+    "login": "Mortal004",
+    "id": 174089117,
+    "node_id": "U_kgDOCmBjnQ",
+    "avatar_url": "https://avatars.githubusercontent.com/u/174089117?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Mortal004",
+    "html_url": "https://github.com/Mortal004",
+    "followers_url": "https://api.github.com/users/Mortal004/followers",
+    "following_url": "https://api.github.com/users/Mortal004/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Mortal004/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Mortal004/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Mortal004/subscriptions",
+    "organizations_url": "https://api.github.com/users/Mortal004/orgs",
+    "repos_url": "https://api.github.com/users/Mortal004/repos",
+    "events_url": "https://api.github.com/users/Mortal004/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Mortal004/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "committer": {
+    "login": "web-flow",
+    "id": 19864447,
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/web-flow",
+    "html_url": "https://github.com/web-flow",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "parents": [
+    {
+      "sha": "7ef423abda61c4bb946b977a8432a9682131e115",
+      "url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/commits/7ef423abda61c4bb946b977a8432a9682131e115",
+      "html_url": "https://github.com/Mortal004/Xuexitong_shuake/commit/7ef423abda61c4bb946b977a8432a9682131e115"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "additions": 2,
+    "deletions": 2
+  },
+  "files": [
+    {
+      "sha": "97c7f893edcc5cdab16504dc5872e4bd7e57a920",
+      "filename": "README.md",
+      "status": "modified",
+      "additions": 2,
+      "deletions": 2,
+      "changes": 4,
+      "blob_url": "https://github.com/Mortal004/Xuexitong_shuake/blob/563bf27c5cb7a3eb659ed7b27b855d5e5c131c7c/README.md",
+      "raw_url": "https://github.com/Mortal004/Xuexitong_shuake/raw/563bf27c5cb7a3eb659ed7b27b855d5e5c131c7c/README.md",
+      "contents_url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/contents/README.md?ref=563bf27c5cb7a3eb659ed7b27b855d5e5c131c7c",
+      "patch": "@@ -1,4 +1,4 @@\n-# 学习通刷课脚本\n+# 学习通刷课脚本（[**详细教程**](https://mortal004.github.io/xuexitong-tutorial/)）\n \n ## 前言\n \n@@ -12,6 +12,7 @@\n \n 本项目旨在通过模拟用户观看视频的行为，自动在学习通上完成刷课任务。主要功能包括：\n - **定时自动刷课**：使用 Selenium 库实现网页自动化操作，模拟真实用户观看视频行为，并支持调节视频播放倍速，最高可至 16 倍速，并且可以自主设定开始与结束刷课的时间\n+- **自动签到**：支持在任意地点完成定位签到和普通签到，打破地理限制，无需手动操作即可完成考勤。\n - **连续刷多门课程**：支持最多连续刷3门课程，一门课程刷完后不再需要手动切换下一科，全程自动操作。\n - **同时刷多门课程**：支持最多同时刷一个账号下的3门课程，只需在设置中打开多端学习，但除非是特别紧急，一般不建议开启。\n - **刷题功能**：现在已经可以支持使用deepseek进行搜题，并且加入了一些免费题库，会优先在免费题库中检索答案，然后再用deepseek AI回答。\n@@ -75,7 +76,6 @@ pip install selenium pyautogui requests colorama customtkinter openai\n 2. [ **迅雷网盘**](https://pan.xunlei.com/s/VOvtzs6dbiSGyNE41Fk5ytgVA1?pwd=tct2#) \n 3. [**夸克网盘**](https://pan.quark.cn/s/bbcc17bcce22)\n 4. [**百度网盘**](https://pan.baidu.com/s/5TvAVKIajPhOKTGd9qWDfUw)\n-5. [**使用教程**](https://mortal004.github.io/xuexitong-tutorial/)\n \n ## 注意事项\n "
+    }
+  ]
+}

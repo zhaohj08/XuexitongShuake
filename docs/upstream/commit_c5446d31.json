@@ -1,0 +1,101 @@
+{
+  "sha": "c5446d31ef2819eaaa4b9b1eaee67b75d4b7f989",
+  "node_id": "C_kwDONgnDgdoAKGM1NDQ2ZDMxZWYyODE5ZWFhYTRiOWIxZWFlZTY3Yjc1ZDRiN2Y5ODk",
+  "commit": {
+    "author": {
+      "name": "Mortal",
+      "email": "2022865286@qq.com",
+      "date": "2026-11-03T11:44:41Z"
+    },
+    "committer": {
+      "name": "GitHub",
+      "email": "noreply@github.com",
+      "date": "2026-11-03T11:44:41Z"
+    },
+    "message": "Update constants.py",
+    "tree": {
+      "sha": "2265eb47343d88c24b3af5eaa6ebe9055d025979",
+      "url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/git/trees/2265eb47343d88c24b3af5eaa6ebe9055d025979"
+    },
+    "url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/git/commits/c5446d31ef2819eaaa4b9b1eaee67b75d4b7f989",
+    "comment_count": 0,
+    "verification": {
+      "verified": true,
+      "reason": "valid",
+      "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJq6ckpCRC1aQ7uu5UhlAAAMJwQAF/qUwkZWk2qZBUaESX2X8Im\n51vyqQQ5qX6PVWLEMZG2pA/xw/CYXF36x0GgvrzP6lJd6g68x5XH3rKiM+ZOQuHp\nYqcDCCPfLSa7NfsPYoqywthNPrl2p6jhKosb+gZhaSc0ujGuKZ35zB8fyEWls6pT\nGS47P2z71nDmo094O0kvDKFUXvHqRO03ve/GMEuNH05jSWBl9/O5w7dBNyUb4fw2\n8lsYoRWjravJqVlb7iqexyX8YgHonraOdhS4oBIBY12NbgbDBK5CHubeq0M2laf+\nSmrbZd/RuBJTkU9rjQ9kzsqt7bBYiHC6XL5X7Lb0YwL0eOGyZeUOzg8v9o2X7Kad\nUWZKVy9pzFowAWlqQ3MeflaEQ2krID1qexkWvn+m9+WISQKltI4In4psx9+sF2Bn\n+7UGQRsH1k6ki+4z7afmFWmK6YjvgbishL/kIREXeVqhWzfllWVdaWFaMXqEPV7J\nwPhtY9yMBt2hl+rwPplpFEBD0Ff1GvpBYip8T5cFLSG/2/vERRYx70b/Qlna8vUI\nz4fTXsyQnBICRv0XBlr4p7eUPMPoZUfaNj6Ql3J/lY/pYTHfGslfk4zOOydpTTfu\nag0IDzJtTCKouK8waeZIk7/kHTgBY/FusPCeE88Y++k8udOJxS0rmsz8IAsJDfpz\ny5FFCgB0AJsNMM8Durb7\n=b5a0\n-----END PGP SIGNATURE-----\n",
+      "payload": "tree 2265eb47343d88c24b3af5eaa6ebe9055d025979\nparent 546c3fa47d3402343ef7450a682124ff72d864ed\nauthor Mortal <2022865286@qq.com> 1793706281 +0800\ncommitter GitHub <noreply@github.com> 1793706281 +0800\n\nUpdate constants.py",
+      "verified_at": "2026-11-03T11:44:42Z"
+    }
+  },
+  "url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/commits/c5446d31ef2819eaaa4b9b1eaee67b75d4b7f989",
+  "html_url": "https://github.com/Mortal004/Xuexitong_shuake/commit/c5446d31ef2819eaaa4b9b1eaee67b75d4b7f989",
+  "comments_url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/commits/c5446d31ef2819eaaa4b9b1eaee67b75d4b7f989/comments",
+  "author": {
+    "login": "Mortal004",
+    "id": 174089117,
+    "node_id": "U_kgDOCmBjnQ",
+    "avatar_url": "https://avatars.githubusercontent.com/u/174089117?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Mortal004",
+    "html_url": "https://github.com/Mortal004",
+    "followers_url": "https://api.github.com/users/Mortal004/followers",
+    "following_url": "https://api.github.com/users/Mortal004/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Mortal004/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Mortal004/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Mortal004/subscriptions",
+    "organizations_url": "https://api.github.com/users/Mortal004/orgs",
+    "repos_url": "https://api.github.com/users/Mortal004/repos",
+    "events_url": "https://api.github.com/users/Mortal004/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Mortal004/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "committer": {
+    "login": "web-flow",
+    "id": 19864447,
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/web-flow",
+    "html_url": "https://github.com/web-flow",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "parents": [
+    {
+      "sha": "546c3fa47d3402343ef7450a682124ff72d864ed",
+      "url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/commits/546c3fa47d3402343ef7450a682124ff72d864ed",
+      "html_url": "https://github.com/Mortal004/Xuexitong_shuake/commit/546c3fa47d3402343ef7450a682124ff72d864ed"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "additions": 1,
+    "deletions": 1
+  },
+  "files": [
+    {
+      "sha": "1dfb131a3cf4b6920352c2ea9047876675caa348",
+      "filename": "task/xxt/constants.py",
+      "status": "modified",
+      "additions": 1,
+      "deletions": 1,
+      "changes": 2,
+      "blob_url": "https://github.com/Mortal004/Xuexitong_shuake/blob/c5446d31ef2819eaaa4b9b1eaee67b75d4b7f989/task%2Fxxt%2Fconstants.py",
+      "raw_url": "https://github.com/Mortal004/Xuexitong_shuake/raw/c5446d31ef2819eaaa4b9b1eaee67b75d4b7f989/task%2Fxxt%2Fconstants.py",
+      "contents_url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/contents/task%2Fxxt%2Fconstants.py?ref=c5446d31ef2819eaaa4b9b1eaee67b75d4b7f989",
+      "patch": "@@ -42,7 +42,7 @@\n \n # ---------------- 加解密 / 其他 ----------------\n AES_KEY = \"u2oh6Vu^HWe4_AES\"          # 本地保存密码 & fanyalogin 传输\n-DEFAULT_AMAP_KEY = \"cf7120783770ef244dc54f203487bbea\"   # 地址->坐标(可用 config 覆盖)\n+DEFAULT_AMAP_KEY = \"\"   # 地址->坐标(可用 config 覆盖)\n AMAP_GEOCODE_URL = \"https://restapi.amap.com/v3/geocode/geo\"\n \n # ---------------- 运行参数 ----------------"
+    }
+  ]
+}

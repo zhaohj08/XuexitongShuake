@@ -1,0 +1,29 @@
+{
+  "browser": "不指定浏览器",
+  "driver_path": "",
+  "phone_number": "",
+  "password": "",
+  "cour": [
+    ""
+  ],
+  "choice": "",
+  "speed": "",
+  "font_type": "Helvetica",
+  "font_size": "13",
+  "lock_screen": 0,
+  "API": "",
+  "user_notice": "True",
+  "homework": "",
+  "task_type": "",
+  "radio_var": 1,
+  "file_name": "",
+  "pass_face": 0,
+  "pass_vido": 0,
+  "video_title_choice": "",
+  "discussion_choice": "",
+  "after_finish_question": "",
+  "timer_active": 0,
+  "timer_start": "04:00:00",
+  "timer_end": "03:00:00",
+  "multi_device": 0
+}

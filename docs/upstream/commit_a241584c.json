@@ -1,0 +1,101 @@
+{
+  "sha": "a241584c9c700b6fa038bd4b33dca29d584497db",
+  "node_id": "C_kwDONgnDgdoAKGEyNDE1ODRjOWM3MDBiNmZhMDM4YmQ0YjMzZGNhMjlkNTg0NDk3ZGI",
+  "commit": {
+    "author": {
+      "name": "tzz1021",
+      "email": "3483180932@qq.com",
+      "date": "2026-06-04T10:24:49Z"
+    },
+    "committer": {
+      "name": "GitHub",
+      "email": "noreply@github.com",
+      "date": "2026-06-04T10:24:49Z"
+    },
+    "message": "修复openclaw胡乱鼓捣的缩进和斜线",
+    "tree": {
+      "sha": "308f3f5a07c258b95a3c69b12ddeb91da2c4668a",
+      "url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/git/trees/308f3f5a07c258b95a3c69b12ddeb91da2c4668a"
+    },
+    "url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/git/commits/a241584c9c700b6fa038bd4b33dca29d584497db",
+    "comment_count": 0,
+    "verification": {
+      "verified": true,
+      "reason": "valid",
+      "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqIVJxCRC1aQ7uu5UhlAAABKQQAHyEymdvmw0FRexan6ltwcfR\nZbZ9UT2cgppNoGgi5VoRYyvZsfk1D4xgzMLLZdO5YIgiCJD9Z42PTf+nIOYmUaZW\nNfeYs17YyGwtXqU19gsWOuGZBHwIuefQLae+/3q6elVu2jNsmIcfOXuNaAYpIIYw\nCm8fbw+hN0ccf29QDlKnSZqjvTqPuOKpyjLZ/5vLZVmwCoL0f6muRqPvq6niC+pI\n3QgPxV6XquB0hftqD4hWxMN7tcV4yVlL66IY2Un5WlgqYJ2gu1QrIsRAbxlXO654\nQx/dvH8PlWy4CufW7hAIP80brg1Qi8ufEyAMJyZCS4qBa2KpdaYhzR8MvgjnBESx\nR9E4gxvIX1l2hYjTePKFrEa6xCjCVVEgwWfOqP5vRHTW2OSp6V55mw+/nlZ1R/HR\ngMWkSUIod9/L04147T+ZNqqgTtN1pl9Pes4P/kRj2F31BijzxOhPW2oO3oDDNfwR\nzZayVBhnRz/4ewQbUEpcrvHVf9tfMxEE5pHU2zJ1ppxR6Y9aJtHM4GIAdT3A7us1\nSpmFnHOASBFW7n4EO2/GulzT2Zvqm3eychg6pkFc4Kh1erJDg63/ZRHeVT1aKk19\nBzrLjlZH/kvMtF37LjeHksPqtQVKEbgXZb4XDpuaRvHxHM/gthbtCGlsBs4zmOmn\nWWp2K1sawAOEhQkeh5Ol\n=0m6T\n-----END PGP SIGNATURE-----\n",
+      "payload": "tree 308f3f5a07c258b95a3c69b12ddeb91da2c4668a\nparent e4ee7a24ac8de9f30dfb7c46ffcbd8832a89384b\nauthor tzz1021 <3483180932@qq.com> 1780568689 +0800\ncommitter GitHub <noreply@github.com> 1780568689 +0800\n\n修复openclaw胡乱鼓捣的缩进和斜线",
+      "verified_at": "2026-06-04T10:24:50Z"
+    }
+  },
+  "url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/commits/a241584c9c700b6fa038bd4b33dca29d584497db",
+  "html_url": "https://github.com/Mortal004/Xuexitong_shuake/commit/a241584c9c700b6fa038bd4b33dca29d584497db",
+  "comments_url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/commits/a241584c9c700b6fa038bd4b33dca29d584497db/comments",
+  "author": {
+    "login": "tzz1021",
+    "id": 228652700,
+    "node_id": "U_kgDODaD2nA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/228652700?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/tzz1021",
+    "html_url": "https://github.com/tzz1021",
+    "followers_url": "https://api.github.com/users/tzz1021/followers",
+    "following_url": "https://api.github.com/users/tzz1021/following{/other_user}",
+    "gists_url": "https://api.github.com/users/tzz1021/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/tzz1021/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/tzz1021/subscriptions",
+    "organizations_url": "https://api.github.com/users/tzz1021/orgs",
+    "repos_url": "https://api.github.com/users/tzz1021/repos",
+    "events_url": "https://api.github.com/users/tzz1021/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/tzz1021/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "committer": {
+    "login": "web-flow",
+    "id": 19864447,
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/web-flow",
+    "html_url": "https://github.com/web-flow",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "parents": [
+    {
+      "sha": "e4ee7a24ac8de9f30dfb7c46ffcbd8832a89384b",
+      "url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/commits/e4ee7a24ac8de9f30dfb7c46ffcbd8832a89384b",
+      "html_url": "https://github.com/Mortal004/Xuexitong_shuake/commit/e4ee7a24ac8de9f30dfb7c46ffcbd8832a89384b"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "additions": 1,
+    "deletions": 1
+  },
+  "files": [
+    {
+      "sha": "b2bc1798e4d923bb696a48ca9297e9985e79a8b5",
+      "filename": "main.py",
+      "status": "modified",
+      "additions": 1,
+      "deletions": 1,
+      "changes": 2,
+      "blob_url": "https://github.com/Mortal004/Xuexitong_shuake/blob/a241584c9c700b6fa038bd4b33dca29d584497db/main.py",
+      "raw_url": "https://github.com/Mortal004/Xuexitong_shuake/raw/a241584c9c700b6fa038bd4b33dca29d584497db/main.py",
+      "contents_url": "https://api.github.com/repos/Mortal004/Xuexitong_shuake/contents/main.py?ref=a241584c9c700b6fa038bd4b33dca29d584497db",
+      "patch": "@@ -43,7 +43,7 @@ def login_study(driver,phone_number,password):\n     无。\r\n     \"\"\"\r\n     # 打开网页\r\n-      driver.get(\"https:i.chaoxing.com/\")\r\n+    driver.get(\"https://i.chaoxing.com/\")\r\n     turn_page(driver,'用户登录')\r\n     # 尝试 cookie.pkl 自动登录（宿主 profile 或手动导入均可）\r\n     if auto_login_with_cookies(driver):\r"
+    }
+  ]
+}
